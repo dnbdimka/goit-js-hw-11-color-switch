@@ -1,6 +1,4 @@
 import './sass/main.scss';
-import bootstrap from 'bootstrap';
-// import * as bootstrap from 'bootstrap';
 
 import { randomIntegerFromInterval } from './js/rndColor';
 import { colors } from './js/colors';
